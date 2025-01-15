@@ -1,1 +1,2 @@
-# .github
+# KU Eater
+"KU-Eater" is a web-application designed for Kasetsart University students to help them choose meals on campus. It simplifies finding food by providing personalized stall recommendations and menus based on a user's preferences and past choices. With "KU-Eater," students can avoid the confusion of cafeteria choices and enjoy their meals quickly. The app includes reviews to help with decision-making. Its goal is to make campus dining a better experience by using technology to match students with meals they'll love.
