@@ -1,8 +1,9 @@
 # KU-Eater 🍴
-![KU-Eater Logo]("KU-Eater Logo")
+![KU-Eater Logo](https://github.com/KU-Eater/.github/blob/main/profile/logo%20with%20tag%20line.png?raw=true "KU-Eater Logo")
 
 
-
+## 📖 About KU-Eater
+KU-Eater is a web application designed for Kasetsart University students to help them choose meals on campus. It simplifies finding food by providing personalized stall recommendations and menus based on a user's preferences and interaction in application.
 
 ---
 
@@ -15,16 +16,16 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Others**: Redux Toolkit, TypeScript
-
+- **Frontend**: React Native (built with Expo)
+- **Backend**: Rust (Actix-web framework for API)
+- **Database**: Google Sheets (used as the primary data store)
+- **Authentication**: Firebase Authentication
+- **Recommendation System**: Rust-based algorithm for personalization
 ---
 
 ## 📖 How It Works
-1. Users input their dietary preferences and taste preferences during onboarding.
-2. The app learns from the user's interactions and provides personalized meal suggestions.
+1. Users input dietary preferences  during onboarding.
+2. The app learns from the user's interactions and dietary preferences to provides personalized meal suggestions.
 3. Offers menu filtering and sorting based on user choices.
 
 ---
@@ -35,9 +36,10 @@ The design emphasizes:
 - **Customization**: User-specific recommendations based on collected preferences.
 - **Accessibility**: Support for dietary restrictions and inclusive design principles.
 
+
 ---
 
-## 📂 Project Structure
+<!-- ## 📂 Project Structure
 ```
 KU-Eater/
 ├── frontend/        # React frontend source code
@@ -45,9 +47,9 @@ KU-Eater/
 ├── database/        # Database models and configurations
 ├── public/          # Static files
 └── README.md        # Project documentation
-```
+``` -->
 
----
+<!-- ---
 
 ## 🧑‍💻 Development Setup
 1. Clone the repository:
@@ -69,15 +71,15 @@ KU-Eater/
    cd ../backend && npm run dev
    ```
 
----
+--- -->
 
-## 🚧 Status
+<!-- ## 🚧 Status
 - **Current Version**: 1.0.0
 - **Planned Features**:
   - Feedback system for food stalls.
-  - Integration with university payment systems.
+  - Integration with university payment systems. -->
 
----
+<!-- --- -->
 
 ## 🏫 About Kasetsart University
 KU-Eater is designed specifically for Kasetsart University students to enhance their campus dining experience.
