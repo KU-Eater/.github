@@ -17,7 +17,7 @@ KU-Eater is a web application designed for Kasetsart University students to help
 
 ## 🛠️ Tech Stack
 - **Frontend**: React Native (built with Expo)
-- **Backend**: Rust (Actix-web framework for API)
+- **Backend**: Rust
 - **Database**: Google Sheets (used as the primary data store)
 - **Authentication**: Firebase Authentication
 - **Recommendation System**: Rust-based algorithm for personalization
@@ -35,9 +35,10 @@ The design emphasizes:
 - **Clarity**: Minimalistic and intuitive interface for quick decision-making.
 - **Customization**: User-specific recommendations based on collected preferences.
 - **Accessibility**: Support for dietary restrictions and inclusive design principles.
-<iframe width="560" height="315" src="https://youtu.be/KzbL8pyLhrw" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
+<a href="https://youtu.be/KzbL8pyLhrw">
+<img src="https://img.shields.io/badge/YouTube-Mockup-white?logo=youtube&labelColor=red" alt="Watch the KU-Eater Demo Video" />
+</a>
 
 ---
 
