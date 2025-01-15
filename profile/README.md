@@ -35,7 +35,9 @@ The design emphasizes:
 - **Clarity**: Minimalistic and intuitive interface for quick decision-making.
 - **Customization**: User-specific recommendations based on collected preferences.
 - **Accessibility**: Support for dietary restrictions and inclusive design principles.
-
+<iframe width="560" height="315" src="https://youtu.be/KzbL8pyLhrw" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ---
 
